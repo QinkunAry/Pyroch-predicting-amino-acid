@@ -6,3 +6,4 @@ The aim of this project is to use the data of amino acids (monopeptide) to predi
 
 このプロジェクトを使って深層学習によるアミノ酸のデータでジペプチドの対応するデータを予測することは可能である。また、コードの中のパラメータを編集すれば、タンパク質のデータを予測することも可能である。
 
+El objetivo de este proyecto es utilizar los datos de aminoácidos (monopéptidos) para predecir los datos correspondientes de dipéptidos, que están compuestos por dos aminoácidos, mediante aprendizaje profundo. Además, tras modificar el parámetro de los dipéptidos, este proyecto podría utilizarse para predecir las propiedades correspondientes de las proteínas.
